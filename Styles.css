@@ -1,0 +1,38 @@
+body{
+  width:70%;
+  margin:0 auto;
+}
+
+.pav{
+  width:1060px;
+  height:650px;
+  padding-bottom: 1%;
+}
+
+figcaption{
+  font-style: italic;
+}
+
+.heading{
+  font-weight: bold;
+  font-style: italic;
+}
+
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 1%;
+}
+th{
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1%;
+}
+table {
+  margin: 0 auto;
+}
+table {
+  width: 100%;
+}
